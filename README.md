@@ -8,4 +8,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Instagram_clone2
 
-<img src="1.png"/>
+![](1.gif)
+
+![](2.gif)
+
+<img src="1.png"/> 
+
+<img src="2.png"/>
+
+<img src="3.png"/>
